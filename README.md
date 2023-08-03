@@ -6,7 +6,11 @@ In my free time I slaughter countless demons (currently in D4) where I'm basical
 <br><br>
 🔭 I’m currently looking for a first professional role in WEB DEV<br>
 🌱 I’m currently learning React<br>
-🔥 Diablo series fanatic <br>
+<img src="https://icons.iconarchive.com/icons/th3-prophetman/game/256/Diablo-II-2-icon.png" height="80" width="80" /><br>
+Diablo series fanatic <br> 
+
+
+
 <br>
 
 <p>
