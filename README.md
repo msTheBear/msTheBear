@@ -4,15 +4,18 @@
 Self-taught, problem solver with skills in web development and design, looking for his first professional role as a Front-end Web Developer/Software Engineer. I code in HTML5, CSS3, JavaScript and design in Photoshop, Illustrator/Inkscape. Throughout my learning process I've been using The Odin Project, The Web Developer Bootcamp (by Colt Steele) and many other online resources to build my projects and gain more knowledge.
 In my free time I slaughter countless demons (currently in D4) where I'm basically saving the world (You're welcome!) and I 3D print cool figurines.
 <br><br>
-🔭 I’m currently looking for a first professional role in WEB DEV<br>
-🌱 I’m currently learning React<br>
-<img src="https://github.com/msTheBear/msTheBear/blob/main/Diablo-II.png" height="80" width="80" /><br>
-Diablo series fanatic <br> 
+<p align="center">
+  🔭 I’m currently looking for a first professional role in WEB DEV<br>
+🌱 I’m currently learning React
+</p>
+<p align="center">Diablo & Baldur's Gate series fanatic<br><br><img src="https://github.com/msTheBear/msTheBear/blob/main/Diablo-II.png" align="center" height="80" width="80" />
+<img src="https://github.com/msTheBear/msTheBear/blob/main/Baldur-s-Gate-3.png" align="center" height="80" width="80" /></p>
 
 
 
 <br>
 
+<div align="center">
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msTheBear&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&bg_color=0d1117ff&hide_border=false" alt="msTheBear stats card" /></p>
 <p>
@@ -32,3 +35,4 @@ Diablo series fanatic <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" width="60" />
 </a>
+</div>
