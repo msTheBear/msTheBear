@@ -1,23 +1,14 @@
-<!--
-**msTheBear/msTheBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Michal 'The Bear' Szymczak! 👋
 ## 🚀 About Me
 
 Self-taught, problem solver with skills in web development and design, looking for his first professional role as a Front-end Web Developer/Software Engineer. I code in HTML5, CSS3, JavaScript and design in Photoshop, Illustrator/Inkscape. Throughout my learning process I've been using The Odin Project, The Web Developer Bootcamp (by Colt Steele) and many other online resources to build my projects and gain more knowledge.
 In my free time I slaughter countless demons (currently in D4) where I'm basically saving the world (You're welcome!) and I 3D print cool figurines.
+<br><br>
+🔭 I’m currently looking for a first professional role in WEB DEV<br>
+🌱 I’m currently learning React<br>
+🔥 Diablo series fanatic <br>
+<br>
+
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msTheBear&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&bg_color=0d1117ff&hide_border=false" alt="msTheBear stats card" /></p>
 <p>
