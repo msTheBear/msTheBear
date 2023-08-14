@@ -8,7 +8,7 @@ In my free time I slaughter countless demons (currently in D4) where I'm basical
   🔭 I’m currently looking for a first professional role in WEB DEV<br>
 🌱 I’m currently learning React
 </p>
-<p align="center">Diablo & Baldur's Gate series fanatic<br><br><img src="https://github.com/msTheBear/msTheBear/blob/main/Diablo-II.png" align="center" height="100" width="100" />
+<p align="center">Diablo,  Baldur's Gate & Path of Exile fanatic<br><br><img src="https://github.com/msTheBear/msTheBear/blob/main/Diablo-II.png" align="center" height="100" width="100" />
 <img src="https://github.com/msTheBear/msTheBear/blob/main/Baldur-s-Gate-3.png" align="center" height="100" width="100" />
   <img src="https://github.com/msTheBear/msTheBear/blob/main/Path-of-Exile.png" align="center" height="130" width="130" />
 </p>
